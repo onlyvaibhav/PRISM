@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PRISM</string>
+    <string name="accessibility_service_description">PRISM analyzes your typing patterns to detect stress and mood changes. We only analyze typing speed and patterns — your actual text content is NEVER stored or read.</string>
+</resources>

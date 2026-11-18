@@ -1,0 +1,43 @@
+# Local-only planning notes
+/PRODUCT.md
+/TASK.md
+/TECH_RULES.md
+/docs/implementation_plan.md
+/local_only/
+
+# Flutter and Dart generated files
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/coverage/
+**/.gradle/
+**/local.properties
+**/GeneratedPluginRegistrant.java
+**/Generated.xcconfig
+**/flutter_export_environment.sh
+**/*.symbols
+**/*.map.json
+
+# Android signing and Firebase project configuration
+**/*.keystore
+**/*.jks
+**/key.properties
+**/google-services.json
+**/GoogleService-Info.plist
+**/*service-account*.json
+
+# Local environment files; keep example templates if added later
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
